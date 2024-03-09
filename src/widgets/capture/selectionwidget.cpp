@@ -20,6 +20,7 @@ SelectionWidget::SelectionWidget(QColor c, QWidget* parent)
   , m_color(std::move(c))
   , m_activeSide(NO_SIDE)
   , m_ignoreMouse(false)
+  , m_repeatCount(0)
 {
     // prevents this widget from consuming CaptureToolButton mouse events
     setAttribute(Qt::WA_TransparentForMouseEvents);
@@ -43,6 +44,11 @@ SelectionWidget::SelectionWidget(QColor c, QWidget* parent)
 
     m_areaOffset = QPoint(-sideVal / 2, -sideVal / 2);
     m_handleOffset = QPoint(-handleSide / 2, -handleSide / 2);
+    connect(this, &SelectionWidget::geometrySettled, this, [this]() {
+        m_repeatCount = 0;
+        m_shortcut_type = NO_TYPE;
+
+    });
 }
 
 /**
@@ -420,64 +426,93 @@ void SelectionWidget::updateColor(const QColor& c)
     m_color = c;
 }
 
+int SelectionWidget::acceleration(ShortCutType type) {
+    const float a = 0.05;
+    const float v0 = 1;
+    const float vmax = 30;
+    int tmp;
+    if (type != NO_TYPE && type != m_shortcut_type) {
+        m_shortcut_type = type;
+        m_repeatCount = 0;
+    }
+    tmp = m_repeatCount;
+    if (tmp*tmp < (vmax-v0)/a) {
+        m_repeatCount++;
+        return (int)(a*tmp*tmp + v0);
+    } else
+        return vmax;
+}
+
 void SelectionWidget::moveLeft()
 {
-    setGeometryByKeyboard(geometry().adjusted(-1, 0, -1, 0));
+    int px = acceleration(MOVE_LEFT_TYPE);
+    setGeometryByKeyboard(geometry().adjusted(-px, 0, -px, 0), NO_SIDE);
 }
 
 void SelectionWidget::moveRight()
 {
-    setGeometryByKeyboard(geometry().adjusted(1, 0, 1, 0));
+    int px = acceleration(MOVE_RIGHT_TYPE);
+    setGeometryByKeyboard(geometry().adjusted(px, 0, px, 0), NO_SIDE);
 }
 
 void SelectionWidget::moveUp()
 {
-    setGeometryByKeyboard(geometry().adjusted(0, -1, 0, -1));
+    int px = acceleration(MOVE_UP_TYPE);
+    setGeometryByKeyboard(geometry().adjusted(0, -px, 0, -px), NO_SIDE);
 }
 
 void SelectionWidget::moveDown()
 {
-    setGeometryByKeyboard(geometry().adjusted(0, 1, 0, 1));
+    int px = acceleration(MOVE_DOWN_TYPE);
+    setGeometryByKeyboard(geometry().adjusted(0, px, 0, px), NO_SIDE);
 }
 
 void SelectionWidget::resizeLeft()
 {
-    setGeometryByKeyboard(geometry().adjusted(0, 0, -1, 0));
+    int px = acceleration(RESIZE_LEFT_TYPE);
+    setGeometryByKeyboard(geometry().adjusted(0, 0, -px, 0), RIGHT_SIDE);
 }
 
 void SelectionWidget::resizeRight()
 {
-    setGeometryByKeyboard(geometry().adjusted(0, 0, 1, 0));
+    int px = acceleration(RESIZE_RIGHT_TYPE);
+    setGeometryByKeyboard(geometry().adjusted(0, 0, px, 0), RIGHT_SIDE);
 }
 
 void SelectionWidget::resizeUp()
 {
-    setGeometryByKeyboard(geometry().adjusted(0, 0, 0, -1));
+    int px = acceleration(RESIZE_UP_TYPE);
+    setGeometryByKeyboard(geometry().adjusted(0, 0, 0, -px), BOTTOM_SIDE);
 }
 
 void SelectionWidget::resizeDown()
 {
-    setGeometryByKeyboard(geometry().adjusted(0, 0, 0, 1));
+    int px = acceleration(RESIZE_DOWN_TYPE);
+    setGeometryByKeyboard(geometry().adjusted(0, 0, 0, px), BOTTOM_SIDE);
 }
 
 void SelectionWidget::symResizeLeft()
 {
-    setGeometryByKeyboard(geometry().adjusted(1, 0, -1, 0));
+    int px = acceleration(SYM_RESIZE_LEFT_TYPE);
+    setGeometryByKeyboard(geometry().adjusted(px, 0, -px, 0), CENTER);
 }
 
 void SelectionWidget::symResizeRight()
 {
-    setGeometryByKeyboard(geometry().adjusted(-1, 0, 1, 0));
+    int px = acceleration(SYM_RESIZE_RIGHT_TYPE);
+    setGeometryByKeyboard(geometry().adjusted(-px, 0, px, 0), CENTER);
 }
 
 void SelectionWidget::symResizeUp()
 {
-    setGeometryByKeyboard(geometry().adjusted(0, -1, 0, 1));
+    int px = acceleration(SYM_RESIZE_UP_TYPE);
+    setGeometryByKeyboard(geometry().adjusted(0, -px, 0, px), CENTER);
 }
 
 void SelectionWidget::symResizeDown()
 {
-    setGeometryByKeyboard(geometry().adjusted(0, 1, 0, -1));
+    int px = acceleration(SYM_RESIZE_DOWN_TYPE);
+    setGeometryByKeyboard(geometry().adjusted(0, px, 0, -px), CENTER);
 }
 
 void SelectionWidget::updateAreas()
@@ -546,16 +581,38 @@ void SelectionWidget::updateCursor()
     }
 }
 
-void SelectionWidget::setGeometryByKeyboard(const QRect& r)
+void SelectionWidget::setGeometryByKeyboard(const QRect& r, SideType change_side)
 {
     static QTimer timer;
-    QRect rectangle = r.intersected(parentWidget()->rect());
-    if (rectangle.width() <= 0) {
-        rectangle.setWidth(1);
+    QRect rectangle = r;
+    QPoint center = rectangle.center();
+
+    // side combinations are not implemented so no need to check for them
+    if (rectangle.isEmpty()) {
+        switch (change_side) {
+            case RIGHT_SIDE:
+                rectangle.setRight(rectangle.left());
+                break;
+            case LEFT_SIDE:
+                rectangle.setLeft(rectangle.right());
+                break;
+            case BOTTOM_SIDE:
+                rectangle.setBottom(rectangle.top());
+                break;
+            case TOP_SIDE:
+                rectangle.setTop(rectangle.bottom());
+                break;
+            case CENTER:
+                if (rectangle.width() <= 0) {
+                    rectangle.setLeft(center.rx());
+                    rectangle.setRight(center.rx());
+                } else {
+                    rectangle.setTop(center.ry());
+                    rectangle.setBottom(center.ry());
+                }
+        }
     }
-    if (rectangle.height() <= 0) {
-        rectangle.setHeight(1);
-    }
+    rectangle =  rectangle.intersected(parentWidget()->rect());
     setGeometry(rectangle);
     connect(&timer,
             &QTimer::timeout,

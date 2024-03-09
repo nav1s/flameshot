@@ -24,6 +24,24 @@ public:
         BOTTOMRIGHT_SIDE = BOTTOM_SIDE | RIGHT_SIDE,
         CENTER = 0b10000,
     };
+    enum ShortCutType
+    {
+    NO_TYPE,
+    MOVE_LEFT_TYPE,
+    MOVE_RIGHT_TYPE,
+    MOVE_UP_TYPE,
+    MOVE_DOWN_TYPE,
+
+    RESIZE_LEFT_TYPE,
+    RESIZE_RIGHT_TYPE,
+    RESIZE_UP_TYPE,
+    RESIZE_DOWN_TYPE,
+
+    SYM_RESIZE_LEFT_TYPE,
+    SYM_RESIZE_RIGHT_TYPE,
+    SYM_RESIZE_UP_TYPE,
+    SYM_RESIZE_DOWN_TYPE,
+    };
 
     explicit SelectionWidget(QColor c, QWidget* parent = nullptr);
 
@@ -80,7 +98,8 @@ public slots:
 private:
     void updateAreas();
     void updateCursor();
-    void setGeometryByKeyboard(const QRect& r);
+    void setGeometryByKeyboard(const QRect& r, SideType change_dir);
+    int acceleration(ShortCutType type);
 
     QPropertyAnimation* m_animation;
 
@@ -89,8 +108,10 @@ private:
     QPoint m_handleOffset;
 
     QPoint m_dragStartPos;
+    ShortCutType m_shortcut_type;
     SideType m_activeSide;
     QCursor m_idleCentralCursor;
+    int m_repeatCount;
     bool m_ignoreMouse;
     bool m_mouseStartMove;
 
