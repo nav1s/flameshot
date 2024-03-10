@@ -1590,12 +1590,12 @@ Por favor, resolva-os manualmente no arquivo de configuração.</translation>
         <translation type="vanished">Roda do mouse</translation>
     </message>
     <message>
-        <source>Move selection 1px</source>
-        <translation type="vanished">Move a seleção em 1px</translation>
+        <source>Move selection</source>
+        <translation type="vanished">Move a seleção em</translation>
     </message>
     <message>
-        <source>Resize selection 1px</source>
-        <translation type="vanished">Redimensiona a seleção em 1px</translation>
+        <source>Resize selection</source>
+        <translation type="vanished">Redimensiona a seleção em</translation>
     </message>
     <message>
         <source>Quit capture</source>
@@ -2094,40 +2094,40 @@ Você pode ter que invalidar o sinal &apos;#&apos;, por exemplo &apos;\#FFF&apos
         <translation type="vanished">Alternar painel lateral</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
-        <translation type="vanished">Redimensionar seleção para a esquerda 1px</translation>
+        <source>Resize selection left</source>
+        <translation type="vanished">Redimensionar seleção para a esquerda</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
-        <translation type="vanished">Redimensionar seleção para a direita 1px</translation>
+        <source>Resize selection right</source>
+        <translation type="vanished">Redimensionar seleção para a direita</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
-        <translation type="vanished">Redimensionar a seleção para cima 1px</translation>
+        <source>Resize selection up</source>
+        <translation type="vanished">Redimensionar a seleção para cima</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
-        <translation type="vanished">Redimensionar seleção para baixo 1px</translation>
+        <source>Resize selection down</source>
+        <translation type="vanished">Redimensionar seleção para baixo</translation>
     </message>
     <message>
         <source>Select entire screen</source>
         <translation type="vanished">Selecionar a tela inteira</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
-        <translation type="vanished">Mover seleção para a esquerda 1px</translation>
+        <source>Move selection left</source>
+        <translation type="vanished">Mover seleção para a esquerda</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
-        <translation type="vanished">Mover seleção para a direita 1px</translation>
+        <source>Move selection right</source>
+        <translation type="vanished">Mover seleção para a direita</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
-        <translation type="vanished">Mover seleção para a cima 1px</translation>
+        <source>Move selection up</source>
+        <translation type="vanished">Mover seleção para a cima</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
-        <translation type="vanished">Mover seleção para a baixo 1px</translation>
+        <source>Move selection down</source>
+        <translation type="vanished">Mover seleção para a baixo</translation>
     </message>
     <message>
         <source>Commit text in text area</source>
@@ -2303,23 +2303,23 @@ Você pode ter que invalidar o sinal &apos;#&apos;, por exemplo &apos;\#FFF&apos
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
-        <translation>Redimensionar seleção para a esquerda em 1px</translation>
+        <source>Resize selection left</source>
+        <translation>Redimensionar seleção para a esquerda em</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
-        <translation>Redimensionar seleção para a direita em 1px</translation>
+        <source>Resize selection right</source>
+        <translation>Redimensionar seleção para a direita em</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
-        <translation>Redimensionar a seleção para cima em 1px</translation>
+        <source>Resize selection up</source>
+        <translation>Redimensionar a seleção para cima em</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
-        <translation>Redimensionar seleção para baixo em 1px</translation>
+        <source>Resize selection down</source>
+        <translation>Redimensionar seleção para baixo em</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="179"/>
@@ -2328,23 +2328,23 @@ Você pode ter que invalidar o sinal &apos;#&apos;, por exemplo &apos;\#FFF&apos
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Move selection left 1px</source>
-        <translation>Mover seleção para a esquerda em 1px</translation>
+        <source>Move selection left</source>
+        <translation>Mover seleção para a esquerda em</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="181"/>
-        <source>Move selection right 1px</source>
-        <translation>Mover seleção para a direita em 1px</translation>
+        <source>Move selection right</source>
+        <translation>Mover seleção para a direita em</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Move selection up 1px</source>
-        <translation>Mover seleção para cima em 1px</translation>
+        <source>Move selection up</source>
+        <translation>Mover seleção para cima em</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="183"/>
-        <source>Move selection down 1px</source>
-        <translation>Mover seleção para baixo 1px</translation>
+        <source>Move selection down</source>
+        <translation>Mover seleção para baixo</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="184"/>

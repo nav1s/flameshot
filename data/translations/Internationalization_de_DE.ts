@@ -1551,12 +1551,12 @@ Bitte beseitige sie manuell in der Konfigurationsdatei.</translation>
         <translation type="vanished">Mausrad</translation>
     </message>
     <message>
-        <source>Move selection 1px</source>
-        <translation type="vanished">Verschiebe Auswahl um 1px</translation>
+        <source>Move selection</source>
+        <translation type="vanished">Verschiebe Auswahl um</translation>
     </message>
     <message>
-        <source>Resize selection 1px</source>
-        <translation type="vanished">Größenänderung um 1px</translation>
+        <source>Resize selection</source>
+        <translation type="vanished">Größenänderung um</translation>
     </message>
     <message>
         <source>Quit capture</source>
@@ -2051,19 +2051,19 @@ Eventuell muss das &apos;#&apos; Zeichen als &apos;\#FFF&apos; maskiert werden</
         <translation type="vanished">Seitenpanel umschalten</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation type="vanished">Auswahl links um 1 Pixel verändern</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation type="vanished">Auswahl rechts um 1 Pixel verändern</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation type="vanished">Auswahl oben um 1 Pixel verändern</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="vanished">Auswahl unten um 1 Pixel verändern</translation>
     </message>
     <message>
@@ -2071,19 +2071,19 @@ Eventuell muss das &apos;#&apos; Zeichen als &apos;\#FFF&apos; maskiert werden</
         <translation type="vanished">Gesamten Bildschirm auswählen</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation type="vanished">Auswahl um 1 Pixel nach Links verschieben</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation type="vanished">Auswahl um 1 Pixel nach Rechts verschieben</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation type="vanished">Auswahl um 1 Pixel nach Oben verschieben</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation type="vanished">Auswahl um 1 Pixel nach Unten verschieben</translation>
     </message>
     <message>
@@ -2260,22 +2260,22 @@ Eventuell muss das &apos;#&apos; Zeichen als &apos;\#FFF&apos; maskiert werden</
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation>Auswahl links um 1 Pixel verändern</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation>Auswahl rechts um 1 Pixel verändern</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation>Auswahl oben um 1 Pixel verändern</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation>Auswahl unten um 1 Pixel verändern</translation>
     </message>
     <message>
@@ -2285,22 +2285,22 @@ Eventuell muss das &apos;#&apos; Zeichen als &apos;\#FFF&apos; maskiert werden</
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation>Auswahl um 1 Pixel nach Links verschieben</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="181"/>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation>Auswahl um 1 Pixel nach Rechts verschieben</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation>Auswahl um 1 Pixel nach Oben verschieben</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="183"/>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation>Auswahl um 1 Pixel nach Unten verschieben</translation>
     </message>
     <message>

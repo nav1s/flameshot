@@ -172,23 +172,23 @@ void ShortcutsWidget::loadShortcuts()
 
     // additional tools that don't have their own buttons
     appendShortcut("TYPE_TOGGLE_PANEL", tr("Toggle side panel"));
-    appendShortcut("TYPE_RESIZE_LEFT", tr("Resize selection left 1px"));
-    appendShortcut("TYPE_RESIZE_RIGHT", tr("Resize selection right 1px"));
-    appendShortcut("TYPE_RESIZE_UP", tr("Resize selection up 1px"));
-    appendShortcut("TYPE_RESIZE_DOWN", tr("Resize selection down 1px"));
+    appendShortcut("TYPE_RESIZE_LEFT", tr("Resize selection left"));
+    appendShortcut("TYPE_RESIZE_RIGHT", tr("Resize selection right"));
+    appendShortcut("TYPE_RESIZE_UP", tr("Resize selection up"));
+    appendShortcut("TYPE_RESIZE_DOWN", tr("Resize selection down"));
     appendShortcut("TYPE_SYM_RESIZE_LEFT",
-                   tr("Symmetrically decrease width by 2px"));
+                   tr("Symmetrically decrease width"));
     appendShortcut("TYPE_SYM_RESIZE_RIGHT",
-                   tr("Symmetrically increase width by 2px"));
+                   tr("Symmetrically increase width"));
     appendShortcut("TYPE_SYM_RESIZE_UP",
-                   tr("Symmetrically increase height by 2px"));
+                   tr("Symmetrically increase height"));
     appendShortcut("TYPE_SYM_RESIZE_DOWN",
-                   tr("Symmetrically decrease height by 2px"));
+                   tr("Symmetrically decrease height"));
     appendShortcut("TYPE_SELECT_ALL", tr("Select entire screen"));
-    appendShortcut("TYPE_MOVE_LEFT", tr("Move selection left 1px"));
-    appendShortcut("TYPE_MOVE_RIGHT", tr("Move selection right 1px"));
-    appendShortcut("TYPE_MOVE_UP", tr("Move selection up 1px"));
-    appendShortcut("TYPE_MOVE_DOWN", tr("Move selection down 1px"));
+    appendShortcut("TYPE_MOVE_LEFT", tr("Move selection left"));
+    appendShortcut("TYPE_MOVE_RIGHT", tr("Move selection right"));
+    appendShortcut("TYPE_MOVE_UP", tr("Move selection up"));
+    appendShortcut("TYPE_MOVE_DOWN", tr("Move selection down"));
     appendShortcut("TYPE_COMMIT_CURRENT_TOOL", tr("Commit text in text area"));
     appendShortcut("TYPE_DELETE_CURRENT_TOOL", tr("Delete current tool"));
 

@@ -1546,11 +1546,11 @@ Lütfen bunları yapılandırma dosyasında elle çözün.</translation>
         <translation type="vanished">Fare Tekerleği</translation>
     </message>
     <message>
-        <source>Move selection 1px</source>
+        <source>Move selection</source>
         <translation type="vanished">1px seçimini hareket ettir</translation>
     </message>
     <message>
-        <source>Resize selection 1px</source>
+        <source>Resize selection</source>
         <translation type="vanished">1px seçimini yeniden boyutlandır</translation>
     </message>
     <message>
@@ -2042,19 +2042,19 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
         <translation type="vanished">Yan paneli aç / kapat</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation type="vanished">Seçimi sola 1 piksel yeniden boyutlandır</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation type="vanished">Seçimi sağa 1 piksel yeniden boyutlandır</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation type="vanished">Seçimi yukarı 1 piksel yeniden boyutlandır</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="vanished">Seçimi aşağı 1 piksel yeniden boyutlandır</translation>
     </message>
     <message>
@@ -2062,19 +2062,19 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
         <translation type="vanished">Tüm ekranı seçin</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation type="vanished">Seçimi 1 piksel sola taşı</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation type="vanished">Seçimi 1 piksel sağa taşı</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation type="vanished">Seçimi 1 piksel yukarı taşı</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation type="vanished">Seçimi 1 piksel aşağı taşı</translation>
     </message>
     <message>
@@ -2251,22 +2251,22 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation>Seçimi sola 1 piksel yeniden boyutlandır</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation>Seçimi sağa 1 piksel yeniden boyutlandır</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation>Seçimi yukarı 1 piksel yeniden boyutlandır</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation>Seçimi aşağı 1 piksel yeniden boyutlandır</translation>
     </message>
     <message>
@@ -2276,22 +2276,22 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation>Seçimi 1 piksel sola taşı</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="181"/>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation>Seçimi 1 piksel sağa taşı</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation>Seçimi 1 piksel yukarı taşı</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="183"/>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation>Seçimi 1 piksel aşağı taşı</translation>
     </message>
     <message>

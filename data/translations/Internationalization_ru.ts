@@ -1709,12 +1709,12 @@ Please solve them manually in the configuration file.</source>
         <translation type="vanished">Колесо мыши</translation>
     </message>
     <message>
-        <source>Move selection 1px</source>
-        <translation type="vanished">Переместить выделение на 1px</translation>
+        <source>Move selection</source>
+        <translation type="vanished">Переместить выделение на</translation>
     </message>
     <message>
-        <source>Resize selection 1px</source>
-        <translation type="vanished">Изменить размер выделения на 1px</translation>
+        <source>Resize selection</source>
+        <translation type="vanished">Изменить размер выделения на</translation>
     </message>
     <message>
         <source>Quit capture</source>
@@ -2215,19 +2215,19 @@ You can find me in the system tray.</source>
         <translation type="vanished">Показать/скрыть боковую панель</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation type="vanished">Изменить размер выделения влево на 1 пиксель</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation type="vanished">Изменить размер выделения вправо на 1 пиксель</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation type="vanished">Изменить размер выделения вверх на 1 пиксель</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="vanished">Изменить размер выделения вниз на 1 пиксель</translation>
     </message>
     <message>
@@ -2235,19 +2235,19 @@ You can find me in the system tray.</source>
         <translation type="vanished">Выбрать весь экран</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation type="vanished">Переместить выделение влево на 1 пиксель</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation type="vanished">Переместить выделение вправо на 1 пиксель</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation type="vanished">Переместить выделение вверх на 1 пиксель</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation type="vanished">Переместить выделение вниз на 1 пиксель</translation>
     </message>
     <message>
@@ -2424,22 +2424,22 @@ You can find me in the system tray.</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation>Изменить размер выделения влево на 1 пикс</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation>Изменить размер выделения вправо на 1 пикс</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation>Изменить размер выделения вверх на 1 пикс</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation>Изменить размер выделения вниз на 1 пикс</translation>
     </message>
     <message>
@@ -2449,22 +2449,22 @@ You can find me in the system tray.</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation>Сдвинуть выделение влево на 1 пикс</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="181"/>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation>Сдвинуть выделение вправо на 1 пикс</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation>Сдвинуть выделение вверх на 1 пикс</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="183"/>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation>Сдвинуть выделение вниз на 1 пикс</translation>
     </message>
     <message>

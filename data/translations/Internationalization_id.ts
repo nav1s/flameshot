@@ -1543,11 +1543,11 @@ Mohon atasi mereka secara manual di file konfigurasi.</translation>
         <translation type="vanished">Roda del ratolí</translation>
     </message>
     <message>
-        <source>Move selection 1px</source>
+        <source>Move selection</source>
         <translation type="vanished">Mou la selecció 1 px</translation>
     </message>
     <message>
-        <source>Resize selection 1px</source>
+        <source>Resize selection</source>
         <translation type="vanished">Redimensiona la selecció 1 px</translation>
     </message>
     <message>
@@ -2039,40 +2039,40 @@ Anda mungkin perlu untuk escape dari tanda &apos;#&apos; seperti pada &apos;\#FF
         <translation type="vanished">Toggle side panel</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
-        <translation type="vanished">Ubah ukuran seleksi sebesar 1px ke kiri</translation>
+        <source>Resize selection left</source>
+        <translation type="vanished">Ubah ukuran seleksi sebesar ke kiri</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
-        <translation type="vanished">Ubah ukuran seleksi sebesar 1px ke kanan</translation>
+        <source>Resize selection right</source>
+        <translation type="vanished">Ubah ukuran seleksi sebesar ke kanan</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
-        <translation type="vanished">Ubah ukuran seleksi sebesar 1px ke atas</translation>
+        <source>Resize selection up</source>
+        <translation type="vanished">Ubah ukuran seleksi sebesar ke atas</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
-        <translation type="vanished">Ubah ukuran seleksi sebesar 1px ke bawah</translation>
+        <source>Resize selection down</source>
+        <translation type="vanished">Ubah ukuran seleksi sebesar ke bawah</translation>
     </message>
     <message>
         <source>Select entire screen</source>
         <translation type="vanished">Seleksi seluruh layar</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
-        <translation type="vanished">Geser seleksi sebesar 1px ke kiri</translation>
+        <source>Move selection left</source>
+        <translation type="vanished">Geser seleksi sebesar ke kiri</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
-        <translation type="vanished">Geser seleksi sebesar 1px ke kanan</translation>
+        <source>Move selection right</source>
+        <translation type="vanished">Geser seleksi sebesar ke kanan</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
-        <translation type="vanished">Geser seleksi sebesar 1px ke atas</translation>
+        <source>Move selection up</source>
+        <translation type="vanished">Geser seleksi sebesar ke atas</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
-        <translation type="vanished">Geser seleksi sebesar 1px ke bawah</translation>
+        <source>Move selection down</source>
+        <translation type="vanished">Geser seleksi sebesar ke bawah</translation>
     </message>
     <message>
         <source>Commit text in text area</source>
@@ -2248,23 +2248,23 @@ Anda mungkin perlu untuk escape dari tanda &apos;#&apos; seperti pada &apos;\#FF
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
-        <translation type="unfinished">Ubah ukuran seleksi sebesar 1px ke kiri</translation>
+        <source>Resize selection left</source>
+        <translation type="unfinished">Ubah ukuran seleksi sebesar ke kiri</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
-        <translation type="unfinished">Ubah ukuran seleksi sebesar 1px ke kanan</translation>
+        <source>Resize selection right</source>
+        <translation type="unfinished">Ubah ukuran seleksi sebesar ke kanan</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
-        <translation type="unfinished">Ubah ukuran seleksi sebesar 1px ke atas</translation>
+        <source>Resize selection up</source>
+        <translation type="unfinished">Ubah ukuran seleksi sebesar ke atas</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
-        <translation type="unfinished">Ubah ukuran seleksi sebesar 1px ke bawah</translation>
+        <source>Resize selection down</source>
+        <translation type="unfinished">Ubah ukuran seleksi sebesar ke bawah</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="179"/>
@@ -2273,23 +2273,23 @@ Anda mungkin perlu untuk escape dari tanda &apos;#&apos; seperti pada &apos;\#FF
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Move selection left 1px</source>
-        <translation type="unfinished">Geser seleksi sebesar 1px ke kiri</translation>
+        <source>Move selection left</source>
+        <translation type="unfinished">Geser seleksi sebesar ke kiri</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="181"/>
-        <source>Move selection right 1px</source>
-        <translation type="unfinished">Geser seleksi sebesar 1px ke kanan</translation>
+        <source>Move selection right</source>
+        <translation type="unfinished">Geser seleksi sebesar ke kanan</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Move selection up 1px</source>
-        <translation type="unfinished">Geser seleksi sebesar 1px ke atas</translation>
+        <source>Move selection up</source>
+        <translation type="unfinished">Geser seleksi sebesar ke atas</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="183"/>
-        <source>Move selection down 1px</source>
-        <translation type="unfinished">Geser seleksi sebesar 1px ke bawah</translation>
+        <source>Move selection down</source>
+        <translation type="unfinished">Geser seleksi sebesar ke bawah</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="184"/>

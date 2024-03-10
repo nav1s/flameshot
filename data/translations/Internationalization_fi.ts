@@ -1535,11 +1535,11 @@ Ratkaise ne käsin muuttamalla asetustiedostoa.</translation>
         <translation type="vanished">Roda del ratolí</translation>
     </message>
     <message>
-        <source>Move selection 1px</source>
+        <source>Move selection</source>
         <translation type="vanished">Mou la selecció 1 px</translation>
     </message>
     <message>
-        <source>Resize selection 1px</source>
+        <source>Resize selection</source>
         <translation type="vanished">Redimensiona la selecció 1 px</translation>
     </message>
     <message>
@@ -2027,40 +2027,40 @@ Sinun on ehkä vältettävä &quot;#&quot; merkkiä kuten &quot;\#FFF&quot;</tra
         <translation type="vanished">Näytä/piilota sivupaneeli</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
-        <translation type="vanished">Resize selection left 1px</translation>
+        <source>Resize selection left</source>
+        <translation type="vanished">Resize selection left</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
-        <translation type="vanished">Resize selection right 1px</translation>
+        <source>Resize selection right</source>
+        <translation type="vanished">Resize selection right</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
-        <translation type="vanished">Resize selection up 1px</translation>
+        <source>Resize selection up</source>
+        <translation type="vanished">Resize selection up</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
-        <translation type="vanished">Resize selection down 1px</translation>
+        <source>Resize selection down</source>
+        <translation type="vanished">Resize selection down</translation>
     </message>
     <message>
         <source>Select entire screen</source>
         <translation type="vanished">Valitse koko näyttö</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
-        <translation type="vanished">Move selection left 1px</translation>
+        <source>Move selection left</source>
+        <translation type="vanished">Move selection left</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
-        <translation type="vanished">Move selection right 1px</translation>
+        <source>Move selection right</source>
+        <translation type="vanished">Move selection right</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
-        <translation type="vanished">Move selection up 1px</translation>
+        <source>Move selection up</source>
+        <translation type="vanished">Move selection up</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
-        <translation type="vanished">Move selection down 1px</translation>
+        <source>Move selection down</source>
+        <translation type="vanished">Move selection down</translation>
     </message>
     <message>
         <source>Commit text in text area</source>
@@ -2236,23 +2236,23 @@ Sinun on ehkä vältettävä &quot;#&quot; merkkiä kuten &quot;\#FFF&quot;</tra
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
-        <translation>Muuta valinnan kokoa vasen 1px</translation>
+        <source>Resize selection left</source>
+        <translation>Muuta valinnan kokoa vasen</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
-        <translation>Muuta valinnan kokoa oikea 1px</translation>
+        <source>Resize selection right</source>
+        <translation>Muuta valinnan kokoa oikea</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
-        <translation>Muuta valinnan kokoa ylös 1px</translation>
+        <source>Resize selection up</source>
+        <translation>Muuta valinnan kokoa ylös</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
-        <translation>Muuta valinnan kokoa alas 1px</translation>
+        <source>Resize selection down</source>
+        <translation>Muuta valinnan kokoa alas</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="179"/>
@@ -2261,23 +2261,23 @@ Sinun on ehkä vältettävä &quot;#&quot; merkkiä kuten &quot;\#FFF&quot;</tra
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Move selection left 1px</source>
-        <translation>Siirrä valinta vasen 1px</translation>
+        <source>Move selection left</source>
+        <translation>Siirrä valinta vasen</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="181"/>
-        <source>Move selection right 1px</source>
-        <translation>Siirrä valinta oikea 1px</translation>
+        <source>Move selection right</source>
+        <translation>Siirrä valinta oikea</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Move selection up 1px</source>
-        <translation>Siirrä valinta ylös 1px</translation>
+        <source>Move selection up</source>
+        <translation>Siirrä valinta ylös</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="183"/>
-        <source>Move selection down 1px</source>
-        <translation>Siirrä valinta alas 1px</translation>
+        <source>Move selection down</source>
+        <translation>Siirrä valinta alas</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="184"/>

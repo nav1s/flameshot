@@ -1586,12 +1586,12 @@ Mesedez, konpon itzazu eskuz konfigurazio fitxategian.</translation>
         <translation type="vanished">Saguaren gurpila</translation>
     </message>
     <message>
-        <source>Move selection 1px</source>
-        <translation type="vanished">Mugitu azalera 1px</translation>
+        <source>Move selection</source>
+        <translation type="vanished">Mugitu azalera</translation>
     </message>
     <message>
-        <source>Resize selection 1px</source>
-        <translation type="vanished">Aldatu hautapenaren tamaina 1px</translation>
+        <source>Resize selection</source>
+        <translation type="vanished">Aldatu hautapenaren tamaina</translation>
     </message>
     <message>
         <source>Quit capture</source>
@@ -2090,19 +2090,19 @@ Baliteke &apos;#&apos; karakterea ihes egin behar izatea, &apos;\#FFF&apos;n bez
         <translation type="vanished">Bistaratu/Ezkutatu alboko panela</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation type="vanished">Aldatu hautapenaren tamaina pixel 1 ezkerrera</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation type="vanished">Aldatu hautapenaren tamaina pixel 1 eskuinera</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation type="vanished">Aldatu hautapenaren tamaina pixel 1 gora</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="vanished">Aldatu hautapenaren tamaina pixel 1 behera</translation>
     </message>
     <message>
@@ -2110,19 +2110,19 @@ Baliteke &apos;#&apos; karakterea ihes egin behar izatea, &apos;\#FFF&apos;n bez
         <translation type="vanished">Hautatu pantaila osoa</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation type="vanished">Mugitu hautapena pixel 1 ezkerrera</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation type="vanished">Mugitu hautapena pixel 1 eskuinera</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation type="vanished">Mugitu hautapena pixel 1 gora</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation type="vanished">Mugitu hautapena pixel 1 behera</translation>
     </message>
     <message>
@@ -2299,22 +2299,22 @@ Baliteke &apos;#&apos; karakterea ihes egin behar izatea, &apos;\#FFF&apos;n bez
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation>Aldatu hautaketaren tamaina pixel 1 ezkerrera</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation>Aldatu hautaketaren tamaina pixel 1 eskuinera</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation>Aldatu hautaketaren tamaina pixel 1 gora</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation>Aldatu hautaketaren tamaina pixel 1 behera</translation>
     </message>
     <message>
@@ -2324,22 +2324,22 @@ Baliteke &apos;#&apos; karakterea ihes egin behar izatea, &apos;\#FFF&apos;n bez
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation>Mugitu hautaketa pixel 1 ezkerrera</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="181"/>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation>Mugitu hautaketa pixel 1 eskuinera</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation>Mugitu hautaketa pixel 1 gora</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="183"/>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation>Mugitu hautaketa pixel 1 behera</translation>
     </message>
     <message>

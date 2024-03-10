@@ -1531,11 +1531,11 @@ Please solve them manually in the configuration file.</translation>
         <translation type="vanished">Roda del ratolí</translation>
     </message>
     <message>
-        <source>Move selection 1px</source>
+        <source>Move selection</source>
         <translation type="vanished">Mou la selecció 1 px</translation>
     </message>
     <message>
-        <source>Resize selection 1px</source>
+        <source>Resize selection</source>
         <translation type="vanished">Redimensiona la selecció 1 px</translation>
     </message>
     <message>
@@ -2023,19 +2023,19 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
         <translation type="vanished">تغییر وضعیت تابلو کناری</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation type="vanished">تغییر اندازه محوطه گزیده شده 1 پیکسل به چپ</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation type="vanished">تغییر اندازه محوطه گزیده شده 1 پیکسل به راست</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation type="vanished">تغییر اندازه محوطه گزیده شده 1 پیکسل به بالا</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="vanished">تغییر اندازه محوطه گزیده شده 1 پیکسل به پایین</translation>
     </message>
     <message>
@@ -2043,19 +2043,19 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
         <translation type="vanished">گزینش کل صفحه</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation type="vanished">جابه‌جایی محوطه گزیده شده 1 پیکسل به چپ</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation type="vanished">جابه‌جایی محوطه گزیده شده 1 پیکسل به راست</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation type="vanished">جابه‌جایی محوطه گزیده شده 1 پیکسل به بالا</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation type="vanished">جابه‌جایی محوطه گزیده شده 1 پیکسل به پایین</translation>
     </message>
     <message>
@@ -2232,22 +2232,22 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation>تغییر اندازه محوطه گزیده شده 1 پیکسل به چپ</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation>تغییر اندازه محوطه گزیده شده 1 پیکسل به راست</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation>تغییر اندازه محوطه گزیده شده 1 پیکسل به بالا</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation>تغییر اندازه محوطه گزیده شده 1 پیکسل به پایین</translation>
     </message>
     <message>
@@ -2257,22 +2257,22 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation>جابه‌جایی محوطه گزیده شده 1 پیکسل به چپ</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="181"/>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation>جابه‌جایی محوطه گزیده شده 1 پیکسل به راست</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation>جابه‌جایی محوطه گزیده شده 1 پیکسل به بالا</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="183"/>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation>جابه‌جایی محوطه گزیده شده 1 پیکسل به پایین</translation>
     </message>
     <message>

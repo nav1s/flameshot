@@ -1536,12 +1536,12 @@ Veuillez résoudre ce problème manuellement depuis le fichier de configuration.
         <translation type="vanished">Molette de la Souris</translation>
     </message>
     <message>
-        <source>Move selection 1px</source>
-        <translation type="vanished">Déplacer la sélection 1px</translation>
+        <source>Move selection</source>
+        <translation type="vanished">Déplacer la sélection</translation>
     </message>
     <message>
-        <source>Resize selection 1px</source>
-        <translation type="vanished">Redimensionner la sélection 1px</translation>
+        <source>Resize selection</source>
+        <translation type="vanished">Redimensionner la sélection</translation>
     </message>
     <message>
         <source>Quit capture</source>
@@ -2051,40 +2051,40 @@ Vous devrez probablement remplacer le signe &apos;#&apos; par &apos;\#FFF&apos;<
         <translation>Hello, je suis là ! Clique sur l’icône dans la barre des tâches pour prendre une capture d&apos;écran ou fait un clic droit pour voir plus d&apos;options.</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
-        <translation type="vanished">Redimensionner la sélection de 1px vers la gauche</translation>
+        <source>Resize selection left</source>
+        <translation type="vanished">Redimensionner la sélection de vers la gauche</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
-        <translation type="vanished">Redimensionner la sélection de 1px vers la droite</translation>
+        <source>Resize selection right</source>
+        <translation type="vanished">Redimensionner la sélection de vers la droite</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
-        <translation type="vanished">Redimensionner la sélection de 1px vers le haut</translation>
+        <source>Resize selection up</source>
+        <translation type="vanished">Redimensionner la sélection de vers le haut</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
-        <translation type="vanished">Redimensionner la sélection de 1px vers le bas</translation>
+        <source>Resize selection down</source>
+        <translation type="vanished">Redimensionner la sélection de vers le bas</translation>
     </message>
     <message>
         <source>Select entire screen</source>
         <translation type="vanished">Sélectionner l&apos;écran en entier</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
-        <translation type="vanished">Déplacer la sélection de 1px vers la gauche</translation>
+        <source>Move selection left</source>
+        <translation type="vanished">Déplacer la sélection de vers la gauche</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
-        <translation type="vanished">Déplacer la sélection de 1px vers la droite</translation>
+        <source>Move selection right</source>
+        <translation type="vanished">Déplacer la sélection de vers la droite</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
-        <translation type="vanished">Déplacer la sélection de 1px vers le haut</translation>
+        <source>Move selection up</source>
+        <translation type="vanished">Déplacer la sélection de vers le haut</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
-        <translation type="vanished">Déplacer la sélection de 1px vers le bas</translation>
+        <source>Move selection down</source>
+        <translation type="vanished">Déplacer la sélection de vers le bas</translation>
     </message>
     <message>
         <source>Commit text in text area</source>
@@ -2264,43 +2264,43 @@ Vous devrez probablement remplacer le signe &apos;#&apos; par &apos;\#FFF&apos;<
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
-        <translation>Redimensionner la sélection de 1px vers la gauche</translation>
+        <source>Resize selection left</source>
+        <translation>Redimensionner la sélection de vers la gauche</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
-        <translation>Redimensionner la sélection de 1px vers la droite</translation>
+        <source>Resize selection right</source>
+        <translation>Redimensionner la sélection de vers la droite</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
-        <translation>Redimensionner la sélection de 1px vers le haut</translation>
+        <source>Resize selection up</source>
+        <translation>Redimensionner la sélection de vers le haut</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
-        <translation>Redimensionner la sélection de 1px vers le bas</translation>
+        <source>Resize selection down</source>
+        <translation>Redimensionner la sélection de vers le bas</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Symmetrically decrease width by 2px</source>
-        <translation>Diminuer symétriquement la largeur de 2px</translation>
+        <source>Symmetrically decrease width</source>
+        <translation>Diminuer symétriquement la largeur de</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Symmetrically increase width by 2px</source>
-        <translation>Augmenter symétriquement la largeur de 2px</translation>
+        <source>Symmetrically increase width</source>
+        <translation>Augmenter symétriquement la largeur de</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="184"/>
-        <source>Symmetrically increase height by 2px</source>
-        <translation>Augmenter symétriquement la hauteur de 2px</translation>
+        <source>Symmetrically increase height</source>
+        <translation>Augmenter symétriquement la hauteur de</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="186"/>
-        <source>Symmetrically decrease height by 2px</source>
-        <translation>Diminuer symétriquement la hauteur de 2px</translation>
+        <source>Symmetrically decrease height</source>
+        <translation>Diminuer symétriquement la hauteur de</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="187"/>
@@ -2309,23 +2309,23 @@ Vous devrez probablement remplacer le signe &apos;#&apos; par &apos;\#FFF&apos;<
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="188"/>
-        <source>Move selection left 1px</source>
-        <translation>Déplacer la sélection de 1px vers la gauche</translation>
+        <source>Move selection left</source>
+        <translation>Déplacer la sélection de vers la gauche</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="189"/>
-        <source>Move selection right 1px</source>
-        <translation>Déplacer la sélection de 1px vers la droite</translation>
+        <source>Move selection right</source>
+        <translation>Déplacer la sélection de vers la droite</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="190"/>
-        <source>Move selection up 1px</source>
-        <translation>Déplacer la sélection de 1px vers le haut</translation>
+        <source>Move selection up</source>
+        <translation>Déplacer la sélection de vers le haut</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="191"/>
-        <source>Move selection down 1px</source>
-        <translation>Déplacer la sélection de 1px vers le bas</translation>
+        <source>Move selection down</source>
+        <translation>Déplacer la sélection de vers le bas</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="192"/>

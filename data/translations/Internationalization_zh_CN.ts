@@ -1595,11 +1595,11 @@ Please solve them manually in the configuration file.</source>
         <translation type="vanished">鼠标滑轮</translation>
     </message>
     <message>
-        <source>Move selection 1px</source>
+        <source>Move selection</source>
         <translation type="vanished">移动选择 1 px</translation>
     </message>
     <message>
-        <source>Resize selection 1px</source>
+        <source>Resize selection</source>
         <translation type="vanished">调整选择大小 1 px</translation>
     </message>
     <message>
@@ -2099,19 +2099,19 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
         <translation type="vanished">切换侧面板</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation type="vanished">向左改变选区大小1像素</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation type="vanished">向右改变选区大小1像素</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation type="vanished">向上改变选区大小1像素</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="vanished">向下改变选区大小1像素</translation>
     </message>
     <message>
@@ -2119,19 +2119,19 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
         <translation type="vanished">选择整个屏幕</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation type="vanished">向左移动选区1像素</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation type="vanished">向右移动选区1像素</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation type="vanished">向上移动选区1像素</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation type="vanished">向下移动选区1像素</translation>
     </message>
     <message>
@@ -2308,23 +2308,23 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
-        <translation>将选区大小向左调整 1px</translation>
+        <source>Resize selection left</source>
+        <translation>将选区大小向左调整</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
-        <translation>将选区大小向右调整 1px</translation>
+        <source>Resize selection right</source>
+        <translation>将选区大小向右调整</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
-        <translation>将选区大小向上调整 1px</translation>
+        <source>Resize selection up</source>
+        <translation>将选区大小向上调整</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
-        <translation>将选区大小向下调整 1px</translation>
+        <source>Resize selection down</source>
+        <translation>将选区大小向下调整</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="179"/>
@@ -2333,23 +2333,23 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Move selection left 1px</source>
-        <translation>将选区向左调整 1px</translation>
+        <source>Move selection left</source>
+        <translation>将选区向左调整</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="181"/>
-        <source>Move selection right 1px</source>
-        <translation>将选区向右移动 1px</translation>
+        <source>Move selection right</source>
+        <translation>将选区向右移动</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Move selection up 1px</source>
-        <translation>将选区向上移动 1px</translation>
+        <source>Move selection up</source>
+        <translation>将选区向上移动</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="183"/>
-        <source>Move selection down 1px</source>
-        <translation>将选区向下移动 1px</translation>
+        <source>Move selection down</source>
+        <translation>将选区向下移动</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="184"/>

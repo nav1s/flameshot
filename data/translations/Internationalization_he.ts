@@ -1543,11 +1543,11 @@ Please solve them manually in the configuration file.</source>
         <translation type="vanished">Roda del ratolí</translation>
     </message>
     <message>
-        <source>Move selection 1px</source>
+        <source>Move selection</source>
         <translation type="vanished">Mou la selecció 1 px</translation>
     </message>
     <message>
-        <source>Resize selection 1px</source>
+        <source>Resize selection</source>
         <translation type="vanished">Redimensiona la selecció 1 px</translation>
     </message>
     <message>
@@ -2039,19 +2039,19 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
         <translation type="vanished">בררת סרגל־צד</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation type="vanished">שינוי גודל הבחירה לשמאל פיקסל 1</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation type="vanished">שינוי גודל הבחירה לימין פיקסל 1</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation type="vanished">שינוי גודל הבחירה מעלה פיקסל 1</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="vanished">שינוי גודל הבחירה מטה פיקסל 1</translation>
     </message>
     <message>
@@ -2059,20 +2059,20 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
         <translation type="vanished">בחירת כל המסך</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
-        <translation type="vanished">העברת בחירה 1px לשמאל</translation>
+        <source>Move selection left</source>
+        <translation type="vanished">העברת בחירה לשמאל</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
-        <translation type="vanished">העברת בחירה 1px לימין</translation>
+        <source>Move selection right</source>
+        <translation type="vanished">העברת בחירה לימין</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
-        <translation type="vanished">העברת בחירה 1px מעלה</translation>
+        <source>Move selection up</source>
+        <translation type="vanished">העברת בחירה מעלה</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
-        <translation type="vanished">העברת בחירה 1px מטה</translation>
+        <source>Move selection down</source>
+        <translation type="vanished">העברת בחירה מטה</translation>
     </message>
     <message>
         <source>Commit text in text area</source>
@@ -2248,22 +2248,22 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation>שינוי גודל הבחירה לשמאל פיקסל 1</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation>שינוי גודל הבחירה לימין פיקסל 1</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation>שינוי גודל הבחירה מעלה פיקסל 1</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation>שינוי גודל הבחירה מטה פיקסל 1</translation>
     </message>
     <message>
@@ -2273,23 +2273,23 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Move selection left 1px</source>
-        <translation>העברת בחירה 1px לשמאל</translation>
+        <source>Move selection left</source>
+        <translation>העברת בחירה לשמאל</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="181"/>
-        <source>Move selection right 1px</source>
-        <translation>העברת בחירה 1px לימין</translation>
+        <source>Move selection right</source>
+        <translation>העברת בחירה לימין</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Move selection up 1px</source>
-        <translation>העברת בחירה 1px מעלה</translation>
+        <source>Move selection up</source>
+        <translation>העברת בחירה מעלה</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="183"/>
-        <source>Move selection down 1px</source>
-        <translation>העברת בחירה 1px מטה</translation>
+        <source>Move selection down</source>
+        <translation>העברת בחירה מטה</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="184"/>

@@ -1896,19 +1896,19 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</translati
         <translation type="vanished">Attiva/disattiva il pannello laterale</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
-        <translation type="vanished">Ridimensiona la selezione a sinistra di 1px</translation>
+        <source>Resize selection left</source>
+        <translation type="vanished">Ridimensiona la selezione a sinistra di</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
-        <translation type="vanished">Ridimensiona la selezione a destra di 1px</translation>
+        <source>Resize selection right</source>
+        <translation type="vanished">Ridimensiona la selezione a destra di</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
-        <translation type="vanished">Ridimensiona la selezione sopra di 1px</translation>
+        <source>Resize selection up</source>
+        <translation type="vanished">Ridimensiona la selezione sopra di</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="vanished">Ridimensiona la selezione giù di 1 px</translation>
     </message>
     <message>
@@ -1916,19 +1916,19 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</translati
         <translation type="vanished">Seleziona tutto lo schermo</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation type="vanished">Sposta la selezione a sinistra di 1 px</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation type="vanished">Sposta la selezione a destra di 1 px</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation type="vanished">Sposta la selezione sopra di 1 px</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation type="vanished">Sposta la selezione giù di 1 px</translation>
     </message>
     <message>
@@ -2105,22 +2105,22 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</translati
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
-        <translation>Ridimensiona la selezione sinistra di 1px</translation>
+        <source>Resize selection left</source>
+        <translation>Ridimensiona la selezione sinistra di</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
-        <translation>Ridimensiona la selezione destra di 1px</translation>
+        <source>Resize selection right</source>
+        <translation>Ridimensiona la selezione destra di</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
-        <translation>Ridimensiona la selezione sopra di 1px</translation>
+        <source>Resize selection up</source>
+        <translation>Ridimensiona la selezione sopra di</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation>Ridimensiona la selezione giù di 1 px</translation>
     </message>
     <message>
@@ -2130,22 +2130,22 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</translati
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation>Sposta la selezione a sinistra di 1 px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="181"/>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation>Sposta la selezione a destra di 1 px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation>Sposta la selezione sopra di 1 px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="183"/>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation>Sposta la selezione giù di 1 px</translation>
     </message>
     <message>

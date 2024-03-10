@@ -1528,12 +1528,12 @@ Please solve them manually in the configuration file.</source>
         <translation type="vanished">Muiswiel</translation>
     </message>
     <message>
-        <source>Move selection 1px</source>
-        <translation type="vanished">Selectie 1px verplaatsen</translation>
+        <source>Move selection</source>
+        <translation type="vanished">Selectie verplaatsen</translation>
     </message>
     <message>
-        <source>Resize selection 1px</source>
-        <translation type="vanished">Afmetingen van selectie 1px aanpassen</translation>
+        <source>Resize selection</source>
+        <translation type="vanished">Afmetingen van selectie aanpassen</translation>
     </message>
     <message>
         <source>Quit capture</source>
@@ -2020,40 +2020,40 @@ Mogelijk moet je het &apos;#&apos;-teken insluiten. Voorbeeld: &apos;\#FFF&apos;
         <translation type="vanished">Zijpaneel in-/uitklappen</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
-        <translation type="vanished">Afmetingen van selectie 1px aanpassen (links)</translation>
+        <source>Resize selection left</source>
+        <translation type="vanished">Afmetingen van selectie aanpassen (links)</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
-        <translation type="vanished">Afmetingen van selectie 1px aanpassen (rechts</translation>
+        <source>Resize selection right</source>
+        <translation type="vanished">Afmetingen van selectie aanpassen (rechts</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
-        <translation type="vanished">Afmetingen van selectie 1px aanpassen (omhoog)</translation>
+        <source>Resize selection up</source>
+        <translation type="vanished">Afmetingen van selectie aanpassen (omhoog)</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
-        <translation type="vanished">Afmetingen van selectie 1px aanpassen (omlaag)</translation>
+        <source>Resize selection down</source>
+        <translation type="vanished">Afmetingen van selectie aanpassen (omlaag)</translation>
     </message>
     <message>
         <source>Select entire screen</source>
         <translation type="vanished">Gehele scherm selecteren</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
-        <translation type="vanished">Selectie 1px naar links verschuiven</translation>
+        <source>Move selection left</source>
+        <translation type="vanished">Selectie naar links verschuiven</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
-        <translation type="vanished">Selectie 1px naar rechts verschuiven</translation>
+        <source>Move selection right</source>
+        <translation type="vanished">Selectie naar rechts verschuiven</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
-        <translation type="vanished">Selectie 1px omhoog verschuiven</translation>
+        <source>Move selection up</source>
+        <translation type="vanished">Selectie omhoog verschuiven</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
-        <translation type="vanished">Selectie 1px omlaag verschuiven</translation>
+        <source>Move selection down</source>
+        <translation type="vanished">Selectie omlaag verschuiven</translation>
     </message>
     <message>
         <source>Commit text in text area</source>
@@ -2226,23 +2226,23 @@ Mogelijk moet je het &apos;#&apos;-teken insluiten. Voorbeeld: &apos;\#FFF&apos;
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
-        <translation type="unfinished">Afmetingen van selectie 1px aanpassen (links)</translation>
+        <source>Resize selection left</source>
+        <translation type="unfinished">Afmetingen van selectie aanpassen (links)</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
-        <translation type="unfinished">Afmetingen van selectie 1px aanpassen (rechts</translation>
+        <source>Resize selection right</source>
+        <translation type="unfinished">Afmetingen van selectie aanpassen (rechts</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
-        <translation type="unfinished">Afmetingen van selectie 1px aanpassen (omhoog)</translation>
+        <source>Resize selection up</source>
+        <translation type="unfinished">Afmetingen van selectie aanpassen (omhoog)</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
-        <translation type="unfinished">Afmetingen van selectie 1px aanpassen (omlaag)</translation>
+        <source>Resize selection down</source>
+        <translation type="unfinished">Afmetingen van selectie aanpassen (omlaag)</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="179"/>
@@ -2251,23 +2251,23 @@ Mogelijk moet je het &apos;#&apos;-teken insluiten. Voorbeeld: &apos;\#FFF&apos;
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Move selection left 1px</source>
-        <translation type="unfinished">Selectie 1px naar links verschuiven</translation>
+        <source>Move selection left</source>
+        <translation type="unfinished">Selectie naar links verschuiven</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="181"/>
-        <source>Move selection right 1px</source>
-        <translation type="unfinished">Selectie 1px naar rechts verschuiven</translation>
+        <source>Move selection right</source>
+        <translation type="unfinished">Selectie naar rechts verschuiven</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Move selection up 1px</source>
-        <translation type="unfinished">Selectie 1px omhoog verschuiven</translation>
+        <source>Move selection up</source>
+        <translation type="unfinished">Selectie omhoog verschuiven</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="183"/>
-        <source>Move selection down 1px</source>
-        <translation type="unfinished">Selectie 1px omlaag verschuiven</translation>
+        <source>Move selection down</source>
+        <translation type="unfinished">Selectie omlaag verschuiven</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="184"/>

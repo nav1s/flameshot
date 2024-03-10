@@ -1558,12 +1558,12 @@ Rozwiąż błędy ręcznie w pliku konfiguracyjnym.</translation>
         <translation type="vanished">Kółko myszy</translation>
     </message>
     <message>
-        <source>Move selection 1px</source>
-        <translation type="vanished">Przesuń zaznaczenie o 1px</translation>
+        <source>Move selection</source>
+        <translation type="vanished">Przesuń zaznaczenie o</translation>
     </message>
     <message>
-        <source>Resize selection 1px</source>
-        <translation type="vanished">Zmień rozmiar zaznaczenia o 1px</translation>
+        <source>Resize selection</source>
+        <translation type="vanished">Zmień rozmiar zaznaczenia o</translation>
     </message>
     <message>
         <source>Quit capture</source>
@@ -2062,19 +2062,19 @@ Może być konieczne opuszczenie znaku &apos;#&apos; jak np.: &apos;\#FFF&apos;<
         <translation type="vanished">Przełącz panel boczny</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation type="vanished">Zmień rozmiar zaznaczenia w lewo o 1 piksel</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation type="vanished">Zmień rozmiar zaznaczenia w prawo o 1 piksel</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation type="vanished">Zmień rozmiar zaznaczenia w górę o 1 piksel</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="vanished">Zmień rozmiar zaznaczenia w dół o 1 piksel</translation>
     </message>
     <message>
@@ -2082,19 +2082,19 @@ Może być konieczne opuszczenie znaku &apos;#&apos; jak np.: &apos;\#FFF&apos;<
         <translation type="vanished">Wybierz cały ekran</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation type="vanished">Przesuń zaznaczenie w lewo o 1 piksel</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation type="vanished">Przesuń zaznaczenie w prawo o 1 piksel</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation type="vanished">Przesuń zaznaczenie w górę o 1 piksel</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation type="vanished">Przesuń zaznaczenie w dół o 1 piksel</translation>
     </message>
     <message>
@@ -2271,22 +2271,22 @@ Może być konieczne opuszczenie znaku &apos;#&apos; jak np.: &apos;\#FFF&apos;<
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="175"/>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation type="unfinished">Zmień rozmiar zaznaczenia w lewo o 1 piksel</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation type="unfinished">Zmień rozmiar zaznaczenia w prawo o 1 piksel</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="177"/>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation type="unfinished">Zmień rozmiar zaznaczenia w górę o 1 piksel</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="unfinished">Zmień rozmiar zaznaczenia w dół o 1 piksel</translation>
     </message>
     <message>
@@ -2296,22 +2296,22 @@ Może być konieczne opuszczenie znaku &apos;#&apos; jak np.: &apos;\#FFF&apos;<
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation type="unfinished">Przesuń zaznaczenie w lewo o 1 piksel</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="181"/>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation type="unfinished">Przesuń zaznaczenie w prawo o 1 piksel</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation type="unfinished">Przesuń zaznaczenie w górę o 1 piksel</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="183"/>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation type="unfinished">Przesuń zaznaczenie w dół o 1 piksel</translation>
     </message>
     <message>
