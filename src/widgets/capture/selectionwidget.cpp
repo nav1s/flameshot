@@ -581,38 +581,46 @@ void SelectionWidget::updateCursor()
     }
 }
 
-void SelectionWidget::setGeometryByKeyboard(const QRect& r, SideType change_side)
+void SelectionWidget::setGeometryByKeyboard(const QRect& r, const SideType change_side)
 {
     static QTimer timer;
     QRect rectangle = r;
-    QPoint center = rectangle.center();
+    int pmin_x, pmax_x, pmin_y, pmax_y;
+    int rmin_x, rmax_x, rmin_y, rmax_y;
+
+    parentWidget()->rect().getCoords(&pmin_x, &pmin_y, &pmax_x, &pmax_y);
+    rectangle.getCoords(&rmin_x, &rmin_y, &rmax_x, &rmax_y);
 
     // side combinations are not implemented so no need to check for them
     if (rectangle.isEmpty()) {
         switch (change_side) {
             case RIGHT_SIDE:
-                rectangle.setRight(rectangle.left());
+                rmax_x = rmin_x;
                 break;
             case LEFT_SIDE:
-                rectangle.setLeft(rectangle.right());
+                rmin_x = rmax_x;
                 break;
             case BOTTOM_SIDE:
-                rectangle.setBottom(rectangle.top());
+                rmax_y = rmin_y;
                 break;
             case TOP_SIDE:
-                rectangle.setTop(rectangle.bottom());
+                rmin_y = rmax_y;
                 break;
             case CENTER:
-                if (rectangle.width() <= 0) {
-                    rectangle.setLeft(center.rx());
-                    rectangle.setRight(center.rx());
+                QPoint center = rectangle.center();
+                if (rmax_x < rmin_x) {
+                    rmax_x = rmin_x = center.rx();
                 } else {
-                    rectangle.setTop(center.ry());
-                    rectangle.setBottom(center.ry());
+                    rmax_y = rmin_y = center.ry();
                 }
         }
     }
-    rectangle =  rectangle.intersected(parentWidget()->rect());
+    rmin_x = qBound(pmin_x, rmin_x, pmax_x);
+    rmax_x = qBound(pmin_x, rmax_x, pmax_x);
+    rmin_y = qBound(pmin_y, rmin_y, pmax_y);
+    rmax_y = qBound(pmin_y, rmax_y, pmax_y);
+    rectangle.setCoords(rmin_x, rmin_y, rmax_x, rmax_y);
+
     setGeometry(rectangle);
     connect(&timer,
             &QTimer::timeout,

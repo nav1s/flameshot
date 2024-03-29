@@ -98,7 +98,7 @@ public slots:
 private:
     void updateAreas();
     void updateCursor();
-    void setGeometryByKeyboard(const QRect& r, SideType change_dir);
+    void setGeometryByKeyboard(const QRect& r, const SideType change_dir);
     int acceleration(ShortCutType type);
 
     QPropertyAnimation* m_animation;
