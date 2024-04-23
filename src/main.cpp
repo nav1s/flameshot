@@ -188,6 +188,8 @@ int main(int argc, char* argv[])
       QObject::tr("Capture a screenshot of the specified monitor."));
 
     // Options
+    CommandOption invertOption(
+      { "i", "invert" }, QObject::tr("invert the screenshot"));
     CommandOption pathOption(
       { "p", "path" },
       QObject::tr("Existing directory or new file to save to"),
@@ -319,6 +321,7 @@ int main(int argc, char* argv[])
     auto versionOption = parser.addVersionOption();
     parser.AddOptions({ pathOption,
                         clipboardOption,
+                        invertOption,
                         delayOption,
                         regionOption,
                         useLastRegionOption,
@@ -391,6 +394,7 @@ int main(int argc, char* argv[])
         QString region = parser.value(regionOption);
         bool useLastRegion = parser.isSet(useLastRegionOption);
         bool clipboard = parser.isSet(clipboardOption);
+        bool invert = parser.isSet(invertOption);
         bool raw = parser.isSet(rawImageOption);
         bool printGeometry = parser.isSet(selectionOption);
         bool pin = parser.isSet(pinOption);
@@ -417,6 +421,9 @@ int main(int argc, char* argv[])
         }
         if (pin) {
             req.addTask(CaptureRequest::PIN);
+        }
+        if (invert) {
+            req.addTask(CaptureRequest::INVERT_SELECTION);
         }
         if (upload) {
             req.addTask(CaptureRequest::UPLOAD);

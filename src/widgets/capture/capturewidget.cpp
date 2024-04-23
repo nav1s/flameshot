@@ -116,6 +116,13 @@ CaptureWidget::CaptureWidget(const CaptureRequest& req,
             AbstractLogger::error() << tr("Unable to capture screen");
             this->close();
         }
+        // draw inverted selection if needed
+        if (m_context.request.tasks() & CaptureRequest::INVERT_SELECTION) {
+            QPixmap inv = m_context.screenshot;
+            QImage img = inv.toImage();
+            img.invertPixels();
+            m_context.screenshot = QPixmap::fromImage(img);
+        }
         m_context.origScreenshot = m_context.screenshot;
 
 #if defined(Q_OS_WIN)

@@ -1804,6 +1804,11 @@ Please solve them manually in the configuration file.</source>
         <translation>אתחול לכידה ידנית במצב מנשק משתמש גרפי.</translation>
     </message>
     <message>
+        <location filename="../../src/main.cpp" line="161"/>
+        <source>invert the screenshot</source>
+        <translation>היפוך צבע על הצילום מסך</translation>
+    </message>
+    <message>
         <location filename="../../src/main.cpp" line="163"/>
         <source>Configure</source>
         <translation>תצור</translation>
