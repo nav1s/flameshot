@@ -121,7 +121,7 @@ CaptureWidget::CaptureWidget(const CaptureRequest& req,
             QPixmap inv = m_context.screenshot;
             QImage img = inv.toImage();
             img.invertPixels();
-            m_context.screenshot = QPixmap::fromImage(img);
+            m_context.screenshot.convertFromImage(img);
         }
         m_context.origScreenshot = m_context.screenshot;
 
@@ -296,6 +296,7 @@ void CaptureWidget::initButtons()
     auto allButtonTypes = CaptureToolButton::getIterableButtonTypes();
     auto visibleButtonTypes = m_config.buttons();
     if ((m_context.request.tasks() == CaptureRequest::NO_TASK) ||
+        (m_context.request.tasks() == CaptureRequest::INVERT_SELECTION) ||
         (m_context.request.tasks() == CaptureRequest::PRINT_GEOMETRY)) {
         allButtonTypes.removeOne(CaptureTool::TYPE_ACCEPT);
         visibleButtonTypes.removeOne(CaptureTool::TYPE_ACCEPT);
