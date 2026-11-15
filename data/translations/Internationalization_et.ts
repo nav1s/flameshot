@@ -2218,40 +2218,40 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
         <translation type="vanished">Toggle side panel</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
-        <translation type="vanished">Resize selection left 1px</translation>
+        <source>Resize selection left</source>
+        <translation type="vanished">Resize selection left</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
-        <translation type="vanished">Resize selection right 1px</translation>
+        <source>Resize selection right</source>
+        <translation type="vanished">Resize selection right</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
-        <translation type="vanished">Resize selection up 1px</translation>
+        <source>Resize selection up</source>
+        <translation type="vanished">Resize selection up</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
-        <translation type="vanished">Resize selection down 1px</translation>
+        <source>Resize selection down</source>
+        <translation type="vanished">Resize selection down</translation>
     </message>
     <message>
         <source>Select entire screen</source>
         <translation type="vanished">Select entire screen</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
-        <translation type="vanished">Move selection left 1px</translation>
+        <source>Move selection left</source>
+        <translation type="vanished">Move selection left</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
-        <translation type="vanished">Move selection right 1px</translation>
+        <source>Move selection right</source>
+        <translation type="vanished">Move selection right</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
-        <translation type="vanished">Move selection up 1px</translation>
+        <source>Move selection up</source>
+        <translation type="vanished">Move selection up</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
-        <translation type="vanished">Move selection down 1px</translation>
+        <source>Move selection down</source>
+        <translation type="vanished">Move selection down</translation>
     </message>
     <message>
         <source>Commit text in text area</source>
@@ -2559,42 +2559,42 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="184"/>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation>Suurenda valikut vasakul 1 piksli võrra</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="185"/>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation>Suurenda valikut paremal 1 piksli võrra</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="186"/>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation>Suurenda valikut üleval 1 piksli võrra</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="187"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation>Suurenda valikut all 1 piksli võrra</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="189"/>
-        <source>Symmetrically decrease width by 2px</source>
+        <source>Symmetrically decrease width</source>
         <translation>Vähenda laiust sümmeetriliselt 2 piksli võrra</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="191"/>
-        <source>Symmetrically increase width by 2px</source>
+        <source>Symmetrically increase width</source>
         <translation>Suurenda laiust sümmeetriliselt 2 piksli võrra</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="193"/>
-        <source>Symmetrically increase height by 2px</source>
+        <source>Symmetrically increase height</source>
         <translation>Suurenda kõrgust sümmeetriliselt 2 piksli võrra</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="195"/>
-        <source>Symmetrically decrease height by 2px</source>
+        <source>Symmetrically decrease height</source>
         <translation>Vähenda kõrgust sümmeetriliselt 2 piksli võrra</translation>
     </message>
     <message>
@@ -2604,22 +2604,22 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="197"/>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation>Liiguta valikut vasakule 1 piksli võrra</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="198"/>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation>Liiguta valikut paremale 1 piksli võrra</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="199"/>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation>Liiguta valikut üles 1 piksli võrra</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="200"/>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation>Liiguta valikut alla 1 piksli võrra</translation>
     </message>
     <message>

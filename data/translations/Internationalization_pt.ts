@@ -2236,40 +2236,40 @@ Você pode ter que invalidar o sinal &apos;#&apos;, por exemplo &apos;\#FFF&apos
         <translation type="vanished">Toggle side panel</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
-        <translation type="vanished">Resize selection left 1px</translation>
+        <source>Resize selection left</source>
+        <translation type="vanished">Resize selection left</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
-        <translation type="vanished">Resize selection right 1px</translation>
+        <source>Resize selection right</source>
+        <translation type="vanished">Resize selection right</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
-        <translation type="vanished">Resize selection up 1px</translation>
+        <source>Resize selection up</source>
+        <translation type="vanished">Resize selection up</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
-        <translation type="vanished">Resize selection down 1px</translation>
+        <source>Resize selection down</source>
+        <translation type="vanished">Resize selection down</translation>
     </message>
     <message>
         <source>Select entire screen</source>
         <translation type="vanished">Select entire screen</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
-        <translation type="vanished">Move selection left 1px</translation>
+        <source>Move selection left</source>
+        <translation type="vanished">Move selection left</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
-        <translation type="vanished">Move selection right 1px</translation>
+        <source>Move selection right</source>
+        <translation type="vanished">Move selection right</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
-        <translation type="vanished">Move selection up 1px</translation>
+        <source>Move selection up</source>
+        <translation type="vanished">Move selection up</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
-        <translation type="vanished">Move selection down 1px</translation>
+        <source>Move selection down</source>
+        <translation type="vanished">Move selection down</translation>
     </message>
     <message>
         <source>Commit text in text area</source>
@@ -2597,42 +2597,42 @@ Você pode ter que invalidar o sinal &apos;#&apos;, por exemplo &apos;\#FFF&apos
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="184"/>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation>Redimensionar seleção para a esquerda em 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="185"/>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation>Redimensionar seleção para a direita em 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="186"/>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation>Redimensionar a seleção para cima em 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="187"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation>Redimensionar seleção para baixo em 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="189"/>
-        <source>Symmetrically decrease width by 2px</source>
+        <source>Symmetrically decrease width</source>
         <translation>Diminuir simetricamente a largura em 2px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="191"/>
-        <source>Symmetrically increase width by 2px</source>
+        <source>Symmetrically increase width</source>
         <translation>Aumentar simetricamente a largura em 2px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="193"/>
-        <source>Symmetrically increase height by 2px</source>
+        <source>Symmetrically increase height</source>
         <translation>Aumentar simetricamente a altura em 2px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="195"/>
-        <source>Symmetrically decrease height by 2px</source>
+        <source>Symmetrically decrease height</source>
         <translation>Diminuir simetricamente a altura em 2px</translation>
     </message>
     <message>
@@ -2642,22 +2642,22 @@ Você pode ter que invalidar o sinal &apos;#&apos;, por exemplo &apos;\#FFF&apos
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="197"/>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation>Mover seleção para a esquerda em 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="198"/>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation>Mover seleção para a direita em 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="199"/>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation>Mover seleção para cima em 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="200"/>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation>Mover seleção para baixo 1px</translation>
     </message>
     <message>

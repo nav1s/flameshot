@@ -127,6 +127,13 @@ CaptureWidget::CaptureWidget(const CaptureRequest& req,
             // Error already logged in ScreenGrabber
             this->close();
         }
+        // draw inverted selection if needed
+        if (m_context.request.tasks() & CaptureRequest::INVERT_SELECTION) {
+            QPixmap inv = m_context.screenshot;
+            QImage img = inv.toImage();
+            img.invertPixels();
+            m_context.screenshot.convertFromImage(img);
+        }
         m_context.origScreenshot = m_context.screenshot;
 
         selectedScreen = grabber.getSelectedScreen();
@@ -336,6 +343,7 @@ void CaptureWidget::initButtons()
     auto allButtonTypes = CaptureToolButton::getIterableButtonTypes();
     auto visibleButtonTypes = m_config.buttons();
     if ((m_context.request.tasks() == CaptureRequest::NO_TASK) ||
+        (m_context.request.tasks() == CaptureRequest::INVERT_SELECTION) ||
         (m_context.request.tasks() == CaptureRequest::PRINT_GEOMETRY)) {
         allButtonTypes.removeOne(CaptureTool::TYPE_ACCEPT);
         visibleButtonTypes.removeOne(CaptureTool::TYPE_ACCEPT);

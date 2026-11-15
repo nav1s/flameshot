@@ -2310,19 +2310,19 @@ Možno budete musieť napísať pred &apos;#&apos; opačnú lomku, teda &apos;\#
         <translation type="vanished">Prepnúť zobrazenie postranného panelu</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation type="vanished">Zmeniť rozmery výberu o 1 pixel vľavo</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation type="vanished">Zmeniť rozmery výberu o 1 pixel vpravo</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation type="vanished">Zmeniť rozmery výberu o 1 pixel nahor</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="vanished">Zmeniť rozmery výberu o 1 pixel nadol</translation>
     </message>
     <message>
@@ -2330,19 +2330,19 @@ Možno budete musieť napísať pred &apos;#&apos; opačnú lomku, teda &apos;\#
         <translation type="vanished">Vybrať celú obrazovku</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation type="vanished">Presunúť výber vľavo o 1 pixel</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation type="vanished">Presunúť výber vpravo o 1 pixel</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation type="vanished">Presunúť výber nahor o 1 pixel</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation type="vanished">Presunúť výber nadol o 1 pixel</translation>
     </message>
     <message>
@@ -2671,42 +2671,42 @@ Možno budete musieť napísať pred &apos;#&apos; opačnú lomku, teda &apos;\#
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="184"/>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation>Zmeniť rozmery výberu o 1 pixel vľavo</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="185"/>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation>Zmeniť rozmery výberu o 1 pixel vpravo</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="186"/>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation>Zmeniť rozmery výberu o 1 pixel nahor</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="187"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation>Zmeniť rozmery výberu o 1 pixel nadol</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="189"/>
-        <source>Symmetrically decrease width by 2px</source>
+        <source>Symmetrically decrease width</source>
         <translation>Symetricky znížiť šírku o 2 pixely</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="191"/>
-        <source>Symmetrically increase width by 2px</source>
+        <source>Symmetrically increase width</source>
         <translation>Symetricky zvýšiť šírku o 2 pixely</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="193"/>
-        <source>Symmetrically increase height by 2px</source>
+        <source>Symmetrically increase height</source>
         <translation>Symetricky zvýšiť výšku o 2 pixely</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="195"/>
-        <source>Symmetrically decrease height by 2px</source>
+        <source>Symmetrically decrease height</source>
         <translation>Symetricky znížiť výšku o 2 pixely</translation>
     </message>
     <message>
@@ -2716,22 +2716,22 @@ Možno budete musieť napísať pred &apos;#&apos; opačnú lomku, teda &apos;\#
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="197"/>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation>Presunúť výber vľavo o 1 pixel</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="198"/>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation>Presunúť výber vpravo o 1 pixel</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="199"/>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation>Presunúť výber nahor o 1 pixel</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="200"/>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation>Presunúť výber nadol o 1 pixel</translation>
     </message>
     <message>

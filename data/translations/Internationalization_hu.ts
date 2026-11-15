@@ -2136,35 +2136,35 @@ Lehet, hogy meg kepp adnod egy &apos;\&apos; karaktert a &apos;#&apos; karakter 
         <translation type="vanished">Oldalsó panel ki- és bekapcsolása</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation type="vanished">Kijelölés átméretezése balra 1px-el</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation type="vanished">Kijelölés átméretezése jobbra 1px-el</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation type="vanished">Kijelölés átméretezése fel 1px-el</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="vanished">Kijelölés átméretezése le 1px-el</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation type="vanished">Kijelölés mozgatása balra 1px-el</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation type="vanished">Kijelölés mozgatása jobbra 1px-el</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation type="vanished">Kijelölés mozgatása fel 1px-el</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation type="vanished">Kijelölés mozgatása le 1px-el</translation>
     </message>
     <message>
@@ -2624,22 +2624,22 @@ Lehet, hogy meg kepp adnod egy &apos;\&apos; karaktert a &apos;#&apos; karakter 
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="184"/>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation type="unfinished">Kijelölés átméretezése balra 1px-el</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="185"/>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation type="unfinished">Kijelölés átméretezése jobbra 1px-el</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="186"/>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation type="unfinished">Kijelölés átméretezése fel 1px-el</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="187"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="unfinished">Kijelölés átméretezése le 1px-el</translation>
     </message>
     <message>
@@ -2649,22 +2649,22 @@ Lehet, hogy meg kepp adnod egy &apos;\&apos; karaktert a &apos;#&apos; karakter 
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="197"/>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation type="unfinished">Kijelölés mozgatása balra 1px-el</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="198"/>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation type="unfinished">Kijelölés mozgatása jobbra 1px-el</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="199"/>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation type="unfinished">Kijelölés mozgatása fel 1px-el</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="200"/>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation type="unfinished">Kijelölés mozgatása le 1px-el</translation>
     </message>
     <message>
@@ -2727,22 +2727,22 @@ Lehet, hogy meg kepp adnod egy &apos;\&apos; karaktert a &apos;#&apos; karakter 
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="189"/>
-        <source>Symmetrically decrease width by 2px</source>
+        <source>Symmetrically decrease width</source>
         <translation>Szimmetrikusan csökkentse a szélességet 2 képponttal</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="191"/>
-        <source>Symmetrically increase width by 2px</source>
+        <source>Symmetrically increase width</source>
         <translation>Szimmetrikusan növelje a szélességet 2 képponttal</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="193"/>
-        <source>Symmetrically increase height by 2px</source>
+        <source>Symmetrically increase height</source>
         <translation>Szimmetrikusan növelje a magasságot 2 képponttal</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="195"/>
-        <source>Symmetrically decrease height by 2px</source>
+        <source>Symmetrically decrease height</source>
         <translation>Szimmetrikusan csökkentse a magasságot 2 képponttal</translation>
     </message>
     <message>

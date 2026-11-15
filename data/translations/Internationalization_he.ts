@@ -1987,6 +1987,11 @@ Click to select</source>
         <translation>אתחול לכידה ידנית במצב מנשק משתמש גרפי.</translation>
     </message>
     <message>
+        <location filename="../../src/main.cpp" line="303"/>
+        <source>invert the screenshot</source>
+        <translation>היפוך צבע על הצילום מסך</translation>
+    </message>
+    <message>
         <location filename="../../src/main.cpp" line="280"/>
         <source>Configure</source>
         <translation>תצור</translation>
@@ -2248,19 +2253,19 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
         <translation type="vanished">בררת סרגל־צד</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation type="vanished">שינוי גודל הבחירה לשמאל פיקסל 1</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation type="vanished">שינוי גודל הבחירה לימין פיקסל 1</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation type="vanished">שינוי גודל הבחירה מעלה פיקסל 1</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation type="vanished">שינוי גודל הבחירה מטה פיקסל 1</translation>
     </message>
     <message>
@@ -2268,19 +2273,19 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
         <translation type="vanished">בחירת כל המסך</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation type="vanished">העברת בחירה 1px לשמאל</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation type="vanished">העברת בחירה 1px לימין</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation type="vanished">העברת בחירה 1px מעלה</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation type="vanished">העברת בחירה 1px מטה</translation>
     </message>
     <message>
@@ -2609,42 +2614,42 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="184"/>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation>שינוי גודל הבחירה לשמאל פיקסל 1</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="185"/>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation>שינוי גודל הבחירה לימין פיקסל 1</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="186"/>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation>שינוי גודל הבחירה מעלה פיקסל 1</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="187"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation>שינוי גודל הבחירה מטה פיקסל 1</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="189"/>
-        <source>Symmetrically decrease width by 2px</source>
+        <source>Symmetrically decrease width</source>
         <translation>להקטין באופן סימטרי רוחב ב־2 פיקסלים</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="191"/>
-        <source>Symmetrically increase width by 2px</source>
+        <source>Symmetrically increase width</source>
         <translation>להגדיל באופן סימטרי רוחב ב-2 פיקסלים</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="193"/>
-        <source>Symmetrically increase height by 2px</source>
+        <source>Symmetrically increase height</source>
         <translation>להגדיל באופן סימטרי גובה ב-2 פיקסלים</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="195"/>
-        <source>Symmetrically decrease height by 2px</source>
+        <source>Symmetrically decrease height</source>
         <translation>להקטין באופן סימטרי גובה ב-2 פיקסלים</translation>
     </message>
     <message>
@@ -2654,22 +2659,22 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="197"/>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation>העברת בחירה 1px לשמאל</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="198"/>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation>העברת בחירה 1px לימין</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="199"/>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation>העברת בחירה 1px מעלה</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="200"/>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation>העברת בחירה 1px מטה</translation>
     </message>
     <message>

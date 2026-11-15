@@ -2191,40 +2191,40 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
         <translation type="vanished">Toggle side panel</translation>
     </message>
     <message>
-        <source>Resize selection left 1px</source>
-        <translation type="vanished">Resize selection left 1px</translation>
+        <source>Resize selection left</source>
+        <translation type="vanished">Resize selection left</translation>
     </message>
     <message>
-        <source>Resize selection right 1px</source>
-        <translation type="vanished">Resize selection right 1px</translation>
+        <source>Resize selection right</source>
+        <translation type="vanished">Resize selection right</translation>
     </message>
     <message>
-        <source>Resize selection up 1px</source>
-        <translation type="vanished">Resize selection up 1px</translation>
+        <source>Resize selection up</source>
+        <translation type="vanished">Resize selection up</translation>
     </message>
     <message>
-        <source>Resize selection down 1px</source>
-        <translation type="vanished">Resize selection down 1px</translation>
+        <source>Resize selection down</source>
+        <translation type="vanished">Resize selection down</translation>
     </message>
     <message>
         <source>Select entire screen</source>
         <translation type="vanished">Select entire screen</translation>
     </message>
     <message>
-        <source>Move selection left 1px</source>
-        <translation type="vanished">Move selection left 1px</translation>
+        <source>Move selection left</source>
+        <translation type="vanished">Move selection left</translation>
     </message>
     <message>
-        <source>Move selection right 1px</source>
-        <translation type="vanished">Move selection right 1px</translation>
+        <source>Move selection right</source>
+        <translation type="vanished">Move selection right</translation>
     </message>
     <message>
-        <source>Move selection up 1px</source>
-        <translation type="vanished">Move selection up 1px</translation>
+        <source>Move selection up</source>
+        <translation type="vanished">Move selection up</translation>
     </message>
     <message>
-        <source>Move selection down 1px</source>
-        <translation type="vanished">Move selection down 1px</translation>
+        <source>Move selection down</source>
+        <translation type="vanished">Move selection down</translation>
     </message>
     <message>
         <source>Commit text in text area</source>
@@ -2458,42 +2458,42 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="171"/>
-        <source>Resize selection left 1px</source>
+        <source>Resize selection left</source>
         <translation>ប្តូរទំហំជ្រើសរើសទៅឆ្វេង 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="172"/>
-        <source>Resize selection right 1px</source>
+        <source>Resize selection right</source>
         <translation>ប្តូរទំហំជ្រើសរើសទៅស្តាំ 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="173"/>
-        <source>Resize selection up 1px</source>
+        <source>Resize selection up</source>
         <translation>ប្តូរទំហំជ្រើសរើសឡើងលើ 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="174"/>
-        <source>Resize selection down 1px</source>
+        <source>Resize selection down</source>
         <translation>ប្តូរទំហំជ្រើសរើសចុះក្រោម 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="176"/>
-        <source>Symmetrically decrease width by 2px</source>
+        <source>Symmetrically decrease width</source>
         <translation>បន្ថយទទឹងស៊ីមេទ្រី 2px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="178"/>
-        <source>Symmetrically increase width by 2px</source>
+        <source>Symmetrically increase width</source>
         <translation>បង្កើនទទឹងស៊ីមេទ្រី 2px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="180"/>
-        <source>Symmetrically increase height by 2px</source>
+        <source>Symmetrically increase height</source>
         <translation>បង្កើនកម្ពស់ស៊ីមេទ្រី 2px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="182"/>
-        <source>Symmetrically decrease height by 2px</source>
+        <source>Symmetrically decrease height</source>
         <translation>បន្ថយកម្ពស់ស៊ីមេទ្រី 2px</translation>
     </message>
     <message>
@@ -2503,22 +2503,22 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</source>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="184"/>
-        <source>Move selection left 1px</source>
+        <source>Move selection left</source>
         <translation>ផ្លាស់ទីជ្រើសរើសទៅឆ្វេង 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="185"/>
-        <source>Move selection right 1px</source>
+        <source>Move selection right</source>
         <translation>ផ្លាស់ទីជ្រើសរើសទៅស្តាំ 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="186"/>
-        <source>Move selection up 1px</source>
+        <source>Move selection up</source>
         <translation>ផ្លាស់ទីជ្រើសរើសឡើងលើ 1px</translation>
     </message>
     <message>
         <location filename="../../src/config/shortcutswidget.cpp" line="187"/>
-        <source>Move selection down 1px</source>
+        <source>Move selection down</source>
         <translation>ផ្លាស់ទីជ្រើសរើសចុះក្រោម 1px</translation>
     </message>
     <message>

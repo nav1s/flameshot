@@ -1188,23 +1188,23 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</translati
     </message>
     <message>
         <location filename="../../src/utils/configshortcuts.cpp" line="29"/>
-        <source>Resize selection left 1px</source>
-        <translation>Resize selection left 1px</translation>
+        <source>Resize selection left</source>
+        <translation>Resize selection left</translation>
     </message>
     <message>
         <location filename="../../src/utils/configshortcuts.cpp" line="33"/>
-        <source>Resize selection right 1px</source>
-        <translation>Resize selection right 1px</translation>
+        <source>Resize selection right</source>
+        <translation>Resize selection right</translation>
     </message>
     <message>
         <location filename="../../src/utils/configshortcuts.cpp" line="37"/>
-        <source>Resize selection up 1px</source>
-        <translation>Resize selection up 1px</translation>
+        <source>Resize selection up</source>
+        <translation>Resize selection up</translation>
     </message>
     <message>
         <location filename="../../src/utils/configshortcuts.cpp" line="41"/>
-        <source>Resize selection down 1px</source>
-        <translation>Resize selection down 1px</translation>
+        <source>Resize selection down</source>
+        <translation>Resize selection down</translation>
     </message>
     <message>
         <location filename="../../src/utils/configshortcuts.cpp" line="45"/>
@@ -1213,23 +1213,23 @@ You may need to escape the &apos;#&apos; sign as in &apos;\#FFF&apos;</translati
     </message>
     <message>
         <location filename="../../src/utils/configshortcuts.cpp" line="49"/>
-        <source>Move selection left 1px</source>
-        <translation>Move selection left 1px</translation>
+        <source>Move selection left</source>
+        <translation>Move selection left</translation>
     </message>
     <message>
         <location filename="../../src/utils/configshortcuts.cpp" line="52"/>
-        <source>Move selection right 1px</source>
-        <translation>Move selection right 1px</translation>
+        <source>Move selection right</source>
+        <translation>Move selection right</translation>
     </message>
     <message>
         <location filename="../../src/utils/configshortcuts.cpp" line="55"/>
-        <source>Move selection up 1px</source>
-        <translation>Move selection up 1px</translation>
+        <source>Move selection up</source>
+        <translation>Move selection up</translation>
     </message>
     <message>
         <location filename="../../src/utils/configshortcuts.cpp" line="58"/>
-        <source>Move selection down 1px</source>
-        <translation>Move selection down 1px</translation>
+        <source>Move selection down</source>
+        <translation>Move selection down</translation>
     </message>
     <message>
         <location filename="../../src/utils/configshortcuts.cpp" line="62"/>
